@@ -29,7 +29,6 @@
 <p align="center">
   <a href="https://github.com/marce7ina">
   <img src="https://github-readme-stats.vercel.app/api?username=marce7ina&show_icons=true&theme=radical&hide_border=true" /></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marce7ina&theme=radical&hide_border=true" />
   </a>
 </p>
 
