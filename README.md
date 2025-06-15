@@ -7,7 +7,7 @@
   
   ---
   
-  <img src="https://img.shields.io/badge/Age-18-gold" />
+  <img src="https://img.shields.io/badge/Age-19-gold" />
   <img src="https://img.shields.io/badge/Focus-Frontend-mediumpurple" />
   <img src="https://img.shields.io/badge/Lives-Poland 🇵🇱-mediumpurple" />
   <img src="https://img.shields.io/badge/Languages-English, Polish-gold" />
